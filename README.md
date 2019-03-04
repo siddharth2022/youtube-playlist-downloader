@@ -1,3 +1,7 @@
 # youtube-playlist-downloader
 This program will download all youtube playlist videos.
-copy and paste your youtube playlist link in to this program 
+run youtube playlist downloader file
+it will ask for url
+enter playlist url and it will start downloading playlist.
+you can also download single video or subtitle only.
+it also provides pause and resume capability.
